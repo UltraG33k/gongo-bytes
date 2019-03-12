@@ -1,6 +1,3 @@
-<?
-
-?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -20,9 +17,15 @@
 		<section class="container">
 			<div class="field">
 				<div class="control">
-					<input class="input is-large" type="number" placeholder="Input number">
+					<input class="input is-large" id="gongo-in" type="number" placeholder="Input number">
+				</div>
+			</div>
+			<div class="field">
+				<div class="control">
+					<input class="input is-large" id="gongo-out" disabled type="number" placeholder="Your Gongo Bytes will appear here...">
 				</div>
 			</div>
 		</section>
+		<script src="js/gongo.js"></script>
 	</body>
 </html>
