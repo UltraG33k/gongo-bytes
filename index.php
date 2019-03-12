@@ -15,6 +15,7 @@
 			<br>
 			<h1 class="title">Gongo Bytes!</h1>
 			<h2 class="subtitle">A calculator that will convert regular numbers to Gongo Bytes</h2>
+			<br>
 		</section>
 		<section class="container">
 			<div class="field">
